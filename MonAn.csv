@@ -1,0 +1,95 @@
+﻿ID,Tên món ăn,Giá (VND)
+1,Phở bò,20000
+2,Phở gà,25000
+3,Bún bò Huế,30000
+4,Bún riêu,35000
+5,Bún chả,40000
+6,Cơm tấm,45000
+7,Cơm gà xối mỡ,50000
+8,Cơm chiên hải sản,55000
+9,Cơm sườn nướng,60000
+10,Hủ tiếu,65000
+11,Mì Quảng,70000
+12,Bánh canh,75000
+13,Bánh mì thịt,80000
+14,Bánh mì xíu mại,85000
+15,Bánh mì chả cá,90000
+16,Bánh cuốn,95000
+17,Bánh xèo,100000
+18,Bánh khọt,105000
+19,Bánh bèo,110000
+20,Bánh bột lọc,15000
+21,Gỏi cuốn,20000
+22,Nem rán,25000
+23,Chả giò,30000
+24,Cháo gà,35000
+25,Cháo lòng,40000
+26,Cháo hải sản,45000
+27,Lẩu thái,50000
+28,Lẩu hải sản,55000
+29,Lẩu bò,60000
+30,Lẩu gà lá é,65000
+31,Lẩu cá,70000
+32,Bò kho,75000
+33,Cà ri gà,80000
+34,Thịt kho trứng,85000
+35,Cá kho tộ,90000
+36,Gà nướng,95000
+37,Vịt quay,100000
+38,Heo quay,105000
+39,Sườn nướng,110000
+40,Bò lúc lắc,15000
+41,Mực xào sa tế,20000
+42,Tôm rang me,25000
+43,Cá chiên xù,30000
+44,Trứng chiên,35000
+45,Canh chua cá,40000
+46,Canh khổ qua,45000
+47,Rau muống xào tỏi,50000
+48,Đậu hũ sốt cà,55000
+49,Salad trộn,60000
+50,Salad cá ngừ,65000
+51,Pizza hải sản,70000
+52,Pizza bò,75000
+53,Hamburger bò,80000
+54,Hamburger gà,85000
+55,Khoai tây chiên,90000
+56,Gà rán,95000
+57,Cánh gà chiên nước mắm,100000
+58,Mì Ý sốt bò,105000
+59,Mì Ý hải sản,110000
+60,Sushi cá hồi,15000
+61,Sushi tổng hợp,20000
+62,Sashimi cá hồi,25000
+63,Cơm cuộn rong biển,30000
+64,Tokbokki,35000
+65,Kimbap,40000
+66,Mì ramen,45000
+67,Mì udon,50000
+68,Mì lạnh Hàn Quốc,55000
+69,Bánh pancake,60000
+70,Bánh waffle,65000
+71,Bánh flan,70000
+72,Bánh tiramisu,75000
+73,Bánh cheesecake,80000
+74,Kem vani,85000
+75,Kem socola,90000
+76,Kem dâu,95000
+77,Trà sữa trân châu,100000
+78,Trà đào,105000
+79,Trà chanh,110000
+80,Cà phê đen,15000
+81,Cà phê sữa,20000
+82,Cappuccino,25000
+83,Latte,30000
+84,Nước cam,35000
+85,Nước chanh,40000
+86,Sinh tố bơ,45000
+87,Sinh tố xoài,50000
+88,Sinh tố dâu,55000
+89,Nước ép táo,60000
+90,Nước ép cà rốt,65000
+91,Nước suối,70000
+92,Nước ngọt có ga,75000
+93,Sữa tươi,80000
+94,Sữa chua,85000

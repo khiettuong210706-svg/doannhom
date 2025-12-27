@@ -1,0 +1,101 @@
+﻿ID,Tên,Chức vụ,Lương (VND)
+1,Hoàng Ngọc Hùng,Thu ngân,12000000
+2,Phạm Hữu Hà,Nhân viên bán hàng,8000000
+3,Nguyễn Anh An,Bảo vệ,12000000
+4,Đặng Quang Cường,Pha chế,17000000
+5,Nguyễn Hữu Hùng,Nhân viên kho,14000000
+6,Phạm Quang Yến,Nhân viên bán hàng,15000000
+7,Lê Thanh Yến,Quản lý,12000000
+8,Trần Đức Hạnh,Pha chế,11000000
+9,Lê Quang Tuấn,Nhân viên bán hàng,12000000
+10,Phan Minh Trang,Quản lý,17000000
+11,Hoàng Thanh Hà,Pha chế,10000000
+12,Vũ Anh Nam,Nhân viên bán hàng,14000000
+13,Lê Đức Dũng,Bảo vệ,11000000
+14,Đặng Gia Vy,Quản lý,7000000
+15,Đặng Gia Bình,Nhân viên kho,13000000
+16,Phan Gia Long,Nhân viên kho,8000000
+17,Vũ Ngọc Linh,Bảo vệ,20000000
+18,Phan Quang Yến,Phục vụ,7000000
+19,Vũ Đức Yến,Thu ngân,10000000
+20,Nguyễn Thanh Linh,Pha chế,9000000
+21,Đặng Đức Hà,Nhân viên bán hàng,18000000
+22,Đỗ Đức Linh,Pha chế,11000000
+23,Phan Minh Long,Nhân viên bán hàng,10000000
+24,Nguyễn Đức Quân,Thu ngân,9000000
+25,Đỗ Thanh Phúc,Nhân viên kho,8000000
+26,Bùi Gia Dũng,Bảo vệ,19000000
+27,Võ Văn Hải,Bảo vệ,6000000
+28,Lê Đức Cường,Phục vụ,12000000
+29,Đỗ Ngọc Vy,Pha chế,20000000
+30,Trần Thanh Cường,Nhân viên bán hàng,8000000
+31,Lê Thanh Bình,Nhân viên bán hàng,10000000
+32,Vũ Hữu Hùng,Nhân viên kho,20000000
+33,Nguyễn Thị Long,Thu ngân,12000000
+34,Võ Thanh Cường,Quản lý,20000000
+35,Phạm Minh Trang,Thu ngân,12000000
+36,Trần Thanh Bình,Phục vụ,7000000
+37,Trần Quang Phúc,Phục vụ,9000000
+38,Phạm Thanh Tuấn,Nhân viên bán hàng,7000000
+39,Đặng Anh Mai,Phục vụ,8000000
+40,Đỗ Thị Cường,Thu ngân,7000000
+41,Bùi Ngọc Long,Quản lý,19000000
+42,Bùi Hữu Trang,Bảo vệ,9000000
+43,Võ Ngọc Mai,Thu ngân,17000000
+44,Huỳnh Hữu Cường,Quản lý,13000000
+45,Vũ Thanh Yến,Thu ngân,18000000
+46,Hoàng Hữu Long,Bảo vệ,7000000
+47,Vũ Thị Long,Pha chế,9000000
+48,Đặng Thị Quân,Bảo vệ,13000000
+49,Phạm Thị Hạnh,Bảo vệ,10000000
+50,Phan Thị Quân,Thu ngân,6000000
+51,Trần Thị Cường,Bảo vệ,16000000
+52,Huỳnh Hữu Long,Phục vụ,18000000
+53,Lê Quang Vy,Pha chế,15000000
+54,Võ Anh Mai,Nhân viên bán hàng,10000000
+55,Phạm Thị Vy,Bảo vệ,18000000
+56,Trần Gia Mai,Bảo vệ,7000000
+57,Trần Thị Mai,Nhân viên kho,13000000
+58,Bùi Anh Trang,Nhân viên kho,9000000
+59,Phạm Thị Dũng,Phục vụ,16000000
+60,Bùi Thanh Hùng,Thu ngân,15000000
+61,Đỗ Ngọc Hà,Quản lý,18000000
+62,Vũ Đức Tuấn,Nhân viên bán hàng,12000000
+63,Đỗ Đức Linh,Nhân viên kho,12000000
+64,Bùi Anh Long,Nhân viên kho,8000000
+65,Bùi Gia Long,Nhân viên kho,10000000
+66,Đặng Anh Hạnh,Nhân viên kho,17000000
+67,Võ Ngọc Dũng,Phục vụ,13000000
+68,Lê Quang Yến,Pha chế,14000000
+69,Đặng Quang Quân,Quản lý,9000000
+70,Võ Hữu Quân,Pha chế,18000000
+71,Lê Đức Hải,Thu ngân,8000000
+72,Bùi Quang Trang,Pha chế,10000000
+73,Huỳnh Quang Hùng,Bảo vệ,20000000
+74,Huỳnh Thị Hùng,Phục vụ,11000000
+75,Huỳnh Gia Khoa,Bảo vệ,12000000
+76,Nguyễn Quang Cường,Phục vụ,18000000
+77,Phạm Gia Long,Thu ngân,14000000
+78,Vũ Thị An,Pha chế,12000000
+79,Phan Văn Cường,Pha chế,17000000
+80,Huỳnh Văn Hà,Nhân viên bán hàng,6000000
+81,Phan Thị Phúc,Pha chế,19000000
+82,Nguyễn Đức Dũng,Quản lý,10000000
+83,Huỳnh Đức Phong,Quản lý,9000000
+84,Huỳnh Đức Nam,Nhân viên kho,13000000
+85,Võ Đức Nam,Pha chế,15000000
+86,Lê Quang Yến,Nhân viên kho,11000000
+87,Đặng Anh Yến,Nhân viên bán hàng,20000000
+88,Phan Đức An,Nhân viên kho,6000000
+89,Đặng Thanh An,Phục vụ,15000000
+90,Lê Anh Mai,Nhân viên bán hàng,18000000
+91,Phan Anh Hạnh,Phục vụ,13000000
+92,Đặng Đức Nam,Pha chế,11000000
+93,Lê Anh An,Thu ngân,18000000
+94,Võ Đức Khoa,Thu ngân,13000000
+95,Vũ Anh An,Bảo vệ,8000000
+96,Phạm Minh Hải,Phục vụ,17000000
+97,Lê Quang Hải,Quản lý,13000000
+98,Trần Đức Vy,Pha chế,11000000
+99,Đặng Thị Mai,Quản lý,11000000
+100,Vũ Minh Bình,Nhân viên bán hàng,7000000
