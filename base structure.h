@@ -33,6 +33,7 @@ bool hopLeSDT(const string& sdt);
 struct NhanVien {
     string id;
     string ten;
+    string chucvu;
     double luong;
 };
 
@@ -59,5 +60,6 @@ void xoaCombo();
 
 void loadComboFromFile();
 void saveComboToFile();
+
 
 bool tonTaiComboID(const string& id);
