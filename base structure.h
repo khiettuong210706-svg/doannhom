@@ -1,3 +1,16 @@
+struct Date {
+	int year{}, month{}, day{};
+};
+
+struct Time {
+	Time() { hour = 0; minute = 0; second = 0; }
+	int hour, minute, second;
+};
+
+enum WEEKDAY {
+	MON, TUE, WED, THU, FRI, SAT
+};
+
 struct MonAn {
     string id;
     string ten;
@@ -32,9 +45,11 @@ bool tonTaiKhachHangID(const string& id);
 bool hopLeSDT(const string& sdt);
 struct NhanVien {
     string id;
+    string username;
+    string password;
     string ten;
+    string ngay_sinh;
     string chucvu;
-    double luong;
 };
 
 void themNhanVien();
@@ -63,3 +78,4 @@ void saveComboToFile();
 
 
 bool tonTaiComboID(const string& id);
+
