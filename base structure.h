@@ -50,6 +50,7 @@ struct NhanVien {
     string ten;
     string ngay_sinh;
     string chucvu;
+	int luong;
 };
 
 void themNhanVien();
@@ -78,4 +79,5 @@ void saveComboToFile();
 
 
 bool tonTaiComboID(const string& id);
+
 
