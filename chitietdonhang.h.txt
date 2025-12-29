@@ -1,0 +1,13 @@
+#ifndef CHITIETDONHANG_H
+#define CHITIETDONHANG_H
+
+#include "Shared.h"
+
+// Khai báo hàm (Prototype)
+string layTenMon(string id);
+double layGiaMon(string id);
+void hienThiMenu();
+void saveChiTiet(const vector<ChiTietDonHang>& dsChiTiet);
+void xemChiTietDonHang(string maDonInput, const vector<ChiTietDonHang>& dsChiTiet);
+
+#endif
